@@ -26,7 +26,7 @@ Clonar repositorio:
 
 ```bash
 git clone https://github.com/dhba99/reto-automatizacion-web-pacifico.git
-cd reto-automatizacion-web-pacifico
+cd web-automation-playwright
 ```
 
 Instalar dependencias:
